@@ -1,2 +1,2 @@
 # Kotlin
-Android developer's course.
+Basics of kotlin.
